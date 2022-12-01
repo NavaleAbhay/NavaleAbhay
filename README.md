@@ -47,6 +47,19 @@ You can click the Preview link to take a look at your changes.
 
 
 
+## GitHub Stats
+
+
+|                                                                     Abhay's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Abhay's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=NavaleAbhay&theme=react-dark&hide_border=true&area=true) |
+| ![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=NavaleAbhay&show_icons=true&theme=algolia)              | 
+| ![Abhay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NavaleAbhay&theme=algolia)                    | 
+    
+
+|                                                                                                      Abhay's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=NavaleAbhay&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
 
 
