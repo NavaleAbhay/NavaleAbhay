@@ -43,14 +43,14 @@ You can click the Preview link to take a look at your changes.
  
  ### 🗄️ Databases and Cloud Hosting
 
-<p>
+
    
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     
 
 ### 💻 Software and Tools
 
-<p>
+
     
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
