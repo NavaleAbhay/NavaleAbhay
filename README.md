@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
+- My attitude towards any technology is, “I don’t know it all, but I will figure it out”. There is so much to investigate. Every day I come to learn, I find out I know less. This keep my learning spirit alive.Computer Science is an continuous life long learning process and I am loving it...
+
 
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -61,13 +63,6 @@ You can click the Preview link to take a look at your changes.
 |                                                                                                      Abhay's Stars                                                                                                       |                                                                                                                    |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=NavaleAbhay&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavaleAbhay&layout=compact&theme=github_dark"/>|
-<img src ="https://camo.githubusercontent.com/96632a8e93c74857abc676f1a77dee8c16a52afba6970979e421b6ff90c6d2ff/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7261766974616d626164652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374266c696e655f6865696768743d3230267469746c655f636f6c6f723d3741374144422669636f6e5f636f6c6f723d32323334414526746578745f636f6c6f723d4433443344332662675f636f6c6f723d302c3030303030302c313330463430"/> |
-
-
-
-
 
 
 
