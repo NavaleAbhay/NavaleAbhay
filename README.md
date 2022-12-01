@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NavaleAbhay
 - 👀 I’m interested in computer science and software development
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning with Transflower pvt.ltd. and enjoying it.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 - My attitude towards any technology is, “I don’t know it all, but I will figure it out”. There is so much to investigate. Every day I come to learn, I find out I know less. This keep my learning spirit alive.Computer Science is an continuous life long learning process and I am loving it...
