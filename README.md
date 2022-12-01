@@ -58,10 +58,11 @@ You can click the Preview link to take a look at your changes.
 | ![Abhay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NavaleAbhay&theme=algolia)                    | 
     
 
-|                                                                                                      Abhay's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      Abhay's Stars                                                                                                       |                                                                                                                    |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=NavaleAbhay&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavaleAbhay&layout=compact&theme=github_dark"/>|
 
 
 
