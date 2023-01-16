@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavaleAbhay&theme=radical&layout=compact" /></a>
 
 |                                                                     Abhay's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
