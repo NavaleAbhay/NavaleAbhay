@@ -60,16 +60,12 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavaleAbhay&theme=radical&layout=compact" /></a>
 
-|                                                                     Abhay's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Abhay's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=NavaleAbhay&theme=react-dark&hide_border=true&area=true) |
-| ![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=NavaleAbhay&show_icons=true&theme=algolia)              | 
-| ![Abhay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NavaleAbhay&theme=algolia)                    | 
-    
-
-|                                                                                                      Abhay's Stars                                                                                                       |                                                                                                                    |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=NavaleAbhay&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | 
+<br/>
+ <img  alt="Abhay Github Stats" src="https://github-readme-stats.vercel.app/api?username=NavaleAbhay&show_icons=true&count_private=true&&theme=radical&hide_border=true" /></a><br/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=NavaleAbhay&theme=radical&hide_border=true" /></a>
+  <br/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavaleAbhay&theme=radical&layout=compact" /></a>
 
 
 
