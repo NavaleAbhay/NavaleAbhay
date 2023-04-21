@@ -56,9 +56,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## GitHub Stats
+<h2> Github Stats : <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> </h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavaleAbhay&theme=radical&layout=compact" /></a>
 
 <br/>
  <img  alt="Abhay Github Stats" src="https://github-readme-stats.vercel.app/api?username=NavaleAbhay&show_icons=true&count_private=true&&theme=radical&hide_border=true" /></a><br/>
