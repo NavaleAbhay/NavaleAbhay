@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
- <img  alt="Abhay Github Stats" src="https://github-readme-stats.vercel.app/api?username=NavaleAbhay&show_icons=true&count_private=true&&theme=radical&hide_border=true" /></a><br/>
+<!-- <img  alt="Abhay Github Stats"  /></a><br/> -->
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=NavaleAbhay&theme=radical&hide_border=true" /></a>
   <br/>
   
